@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "BADULAQUEMIX — Bem-vindo ao BADULAQUEMIX!",
+    "description": "Seu espaço para explorar diversos assuntos com leveza e descontração."
+  },
+  "hero": {
+    "title": "Bem-vindo ao BADULAQUEMIX!",
+    "subtitle": "Seu espaço para explorar diversos assuntos com leveza e descontração.",
+    "btnText": "Descubra mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que você encontrará aqui?",
+    "items": [
+      {
+        "icon": "✈️",
+        "title": "Viagens",
+        "desc": "Dicas e aventuras de destinos incríveis para inspirar suas próximas viagens."
+      },
+      {
+        "icon": "💰",
+        "title": "Dinheiro",
+        "desc": "Conteúdos sobre finanças pessoais, investimentos e como fazer seu dinheiro render mais."
+      },
+      {
+        "icon": "🌍",
+        "title": "Liberdade",
+        "desc": "Reflexões sobre autonomia, liberdade de escolha e viver a vida que você sempre sonhou."
+      },
+      {
+        "icon": "✨",
+        "title": "Lifestyle",
+        "desc": "Tendências, moda, bem-estar e tudo sobre um estilo de vida autêntico e feliz."
+      },
+      {
+        "icon": "❤️",
+        "title": "Relacionamentos",
+        "desc": "Dicas e insights para construir e manter relações saudáveis e significativas."
+      },
+      {
+        "icon": "🚀",
+        "title": "Oportunidades",
+        "desc": "Informações sobre oportunidades de crescimento pessoal e profissional."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o BADULAQUEMIX",
+    "desc": "O BADULAQUEMIX é um espaço dedicado a compartilhar ideias, conhecimentos e experiências sobre diversos temas que interessam a nossos leitores. Aqui, acreditamos que a informação deve ser leve e acessível a todos.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Postagens relevantes"
+      },
+      {
+        "value": "1000+",
+        "label": "Leitores mensais"
+      },
+      {
+        "value": "10",
+        "label": "Categorias de conteúdo"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

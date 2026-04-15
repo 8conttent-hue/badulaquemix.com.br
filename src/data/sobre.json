@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o BADULAQUEMIX"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O BADULAQUEMIX é um espaço dedicado a compartilhar ideias, conhecimentos e experiências sobre diversos temas que interessam a nossos leitores. Aqui, acreditamos que a informação deve ser leve e acessível a todos."
+  },
+  "content": "A missão do BADULAQUEMIX é ser um espaço acolhedor onde todos possam encontrar informações úteis, dicas práticas e reflexões sobre a vida moderna. Queremos proporcionar um ambiente onde nossas leitoras e leitores possam aprender, se inspirar e se conectar.",
+  "mission": "Promover conhecimento e trocar experiências que transformam vidas.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

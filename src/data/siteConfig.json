@@ -1,0 +1,53 @@
+{
+  "name": "BADULAQUEMIX",
+  "slug": "badulaquemix.com.br",
+  "description": "Meu espaço no mundo para falar sobre diversos assuntos de interesse das nossas leitoras e leitores. Vamos falar sobre viagens, liberdade, dinheiro, oportunidades, lifestyle, e até relacionamentos. Então se você gosta de se manter informada, aprender coisas novas e fora do “padrão” de uma maneira leve e descontraída não perca tempo.. Leia nossos posts e compartilhe com amigas!!",
+  "url": "https://badulaquemix.com.br",
+  "niche": "general",
+  "keywords": "Meu espaco no mundo para falar sobre diversos assuntos de interesse das",
+  "email": "contato@badulaquemix.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-G",
+    "hero": "Hero-A",
+    "features": "Features-B",
+    "about": "About-J",
+    "posts": "Posts-D",
+    "footer": "Footer-B",
+    "sobre": "Sobre-I",
+    "contato": "Contato-A"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
